@@ -1,0 +1,23 @@
+{
+    "scripts": {
+        "initialize": "ts-node ./initializeKeypair.ts"
+    },
+    "dependencies": {
+        "@solana/web3.js": "^1.95.3",
+        "@types/connect": "^3.4.38",
+        "dotenv": "^16.4.5",
+        "fs": "^0.0.1-security",
+        "http": "^0.0.1-security",
+        "https": "^1.0.0",
+        "node": "^22.7.0",
+        "yarn": "^1.22.22"
+    },
+    "name": "rust",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
