@@ -261,7 +261,7 @@ npm i fs
 Now, go ahead and run ```ts-node .\index.ts```. This command will:
 
 Generate a new keypair and create a .env file if one does not already exist
-Airdrop devnet SOL
+Airdrop testnet SOL
 Invoke the “Hello, world!” program
 Output the transaction URL to view on Solana Explorer
 
